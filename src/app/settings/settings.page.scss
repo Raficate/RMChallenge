@@ -1,0 +1,48 @@
+ion-card-header {
+    font-size: 1.2rem; /* Aumenta ligeramente el tamaño del texto del encabezado */
+    font-weight: bold; /* Asegura que el encabezado esté en negrita para destacar */
+    color: #333; /* Un color ligeramente más oscuro para el encabezado */
+  }
+  
+  ion-card-content {
+    font-size: 0.9rem; /* Reduce ligeramente el tamaño del texto del contenido */
+    color: #666; /* Color de texto más claro pero legible */
+  }
+  
+  ion-card-content p {
+    font-size: 1.2rem; /* Asegura que el tamaño del texto dentro de los <p> sea consistente */
+    color: #313131; /* Color un poco más oscuro para mejor legibilidad */
+    margin-bottom: 0.5rem; /* Añade un pequeño margen inferior a cada párrafo */
+    line-height: 1.4; /* Mejora la legibilidad con un mayor espacio entre líneas */
+  }
+  .button-container {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  ion-content {
+    --padding-start: 16px;
+    --padding-end: 16px;
+    --padding-top: 16px;
+    --padding-bottom: 16px;
+  }
+  
+  ion-card {
+    margin-top: 16px;
+  }
+  
+  ion-card-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  ion-card-title {
+    font-size: 1.5rem;
+    /* Puedes ajustar el tamaño de la fuente si es necesario */
+    font-weight: bold;
+    /* Puedes ajustar el peso de la fuente si es necesario */
+  }

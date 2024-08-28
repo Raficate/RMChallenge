@@ -28,6 +28,7 @@ log.txt
 /tmp
 /out-tsc
 /bazel-out
+/build
 
 # Node
 /node_modules
@@ -68,3 +69,11 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Archivos de configuración de entorno
+.env
+.env.*
+
+# Archivos generados por Capacitor
+ios/
+android/

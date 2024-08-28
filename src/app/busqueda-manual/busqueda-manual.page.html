@@ -1,0 +1,23 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Búsqueda manual</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="goToHome()">
+        <ion-icon slot="icon-only" name="home-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm" (ionInput)="filtrarEjercicios()" placeholder="Buscar ejercicios"></ion-searchbar>
+  
+  <ion-list *ngIf="ejerciciosFiltrados.length > 0">
+    <ion-item *ngFor="let ejercicio of ejerciciosFiltrados" (click)="verDetalleEjercicio(ejercicio)">
+      <ion-label>
+        <h2>{{ ejercicio.nombre }} {{ getHecho(ejercicio.hecho) }}</h2>
+        <p>{{ ejercicio.descripcion }}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>

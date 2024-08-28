@@ -1,0 +1,1983 @@
+[
+    {
+        "id": "1",
+        "tipo": 1,
+        "nombre": "BACK RACK REVERSE LUNGE",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "2",
+        "tipo": 1,
+        "nombre": "BACK SQUAT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "3",
+        "tipo": 1,
+        "nombre": "BACK SQUAT BARRA BAJA",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "4",
+        "tipo": 1,
+        "nombre": "BARBELL LUNGES",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "5",
+        "tipo": 1,
+        "nombre": "BENCH PRESS",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "6",
+        "tipo": 1,
+        "nombre": "BENCH ROW",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "7",
+        "tipo": 1,
+        "nombre": "BENT ROW",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "8",
+        "tipo": 1,
+        "nombre": "BICEPS CURL BARBELL",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "9",
+        "tipo": 1,
+        "nombre": "BOX SQUAT (ABOVE PARALLEL)",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "10",
+        "tipo": 1,
+        "nombre": "BOX SQUAT (BELLOW PARALLEL)",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "11",
+        "tipo": 1,
+        "nombre": "BULGARIAN SQUAT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "12",
+        "tipo": 1,
+        "nombre": "CLEAN & JERK",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "13",
+        "tipo": 1,
+        "nombre": "CLUSTER",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "14",
+        "tipo": 1,
+        "nombre": "DEADLIFT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "15",
+        "tipo": 1,
+        "nombre": "FARMER CARRY (15MTS)",
+        "descripcion": "Peso máximo en 15m de farmer carry",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "16",
+        "tipo": 1,
+        "nombre": "FLOOR PRESS",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "17",
+        "tipo": 1,
+        "nombre": "FRONT SQUAT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "18",
+        "tipo": 1,
+        "nombre": "FRONT RACK LUNGES",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "19",
+        "tipo": 1,
+        "nombre": "GLUTE BRIDGE BAR",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "20",
+        "tipo": 1,
+        "nombre": "GOOD MORNING",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "21",
+        "tipo": 1,
+        "nombre": "GOOD MORNING HALTEROFILIA",
+        "descripcion": "Max 1 rep, Buenos días con sentadilla",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "22",
+        "tipo": 1,
+        "nombre": "HANG MUSCLE SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "23",
+        "tipo": 1,
+        "nombre": "HIGH HANG POWER CLEAN",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "24",
+        "tipo": 1,
+        "nombre": "HIGH HANG POWER SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "25",
+        "tipo": 1,
+        "nombre": "HIGH HANG SQUAT CLEAN",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "26",
+        "tipo": 1,
+        "nombre": "HIGH HANG SQUAT SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "27",
+        "tipo": 1,
+        "nombre": "HIGH POWER SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "28",
+        "tipo": 1,
+        "nombre": "HIGH SQUAT SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "29",
+        "tipo": 1,
+        "nombre": "HIP THRUST",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "30",
+        "tipo": 1,
+        "nombre": "INCLINED BENCH PRESS",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "31",
+        "tipo": 1,
+        "nombre": "LOW HANG POWER CLEAN",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "32",
+        "tipo": 1,
+        "nombre": "LOW HANG POWER SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "33",
+        "tipo": 1,
+        "nombre": "LOW HANG SQUAT CLEAN",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "34",
+        "tipo": 1,
+        "nombre": "LOW HANG SQUAT SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "35",
+        "tipo": 1,
+        "nombre": "LUNGE KETTLEBELL",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "36",
+        "tipo": 1,
+        "nombre": "LUNGES MANCUERNAS",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "37",
+        "tipo": 1,
+        "nombre": "MUSCLE SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "38",
+        "tipo": 1,
+        "nombre": "MUSCLE CLEAN",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "39",
+        "tipo": 1,
+        "nombre": "NARROW GRIP BENCH PRESS",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "40",
+        "tipo": 1,
+        "nombre": "ONE HANDED SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "41",
+        "tipo": 1,
+        "nombre": "OVERHEAD LUNGES",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "42",
+        "tipo": 1,
+        "nombre": "OVERHEAD SQUAT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "43",
+        "tipo": 1,
+        "nombre": "PENDLAY ROW",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "44",
+        "tipo": 1,
+        "nombre": "PISTOL SQUAT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "45",
+        "tipo": 1,
+        "nombre": "POWER CLEAN",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "46",
+        "tipo": 1,
+        "nombre": "POWER CLUSTER",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "47",
+        "tipo": 1,
+        "nombre": "POWER HANG SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "48",
+        "tipo": 1,
+        "nombre": "POWER SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "49",
+        "tipo": 1,
+        "nombre": "PUSH JERK",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "50",
+        "tipo": 1,
+        "nombre": "PUSH PRESS",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "51",
+        "tipo": 1,
+        "nombre": "PUSH UP",
+        "descripcion": "Maximo peso lastrado",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "52",
+        "tipo": 1,
+        "nombre": "RACK PULL",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "53",
+        "tipo": 1,
+        "nombre": "ROMANIAN DEADLIFT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "54",
+        "tipo": 1,
+        "nombre": "SAFETY BAR SQUAT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "55",
+        "tipo": 1,
+        "nombre": "SANDBAG CLEAN",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "56",
+        "tipo": 1,
+        "nombre": "SEAL ROW",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "57",
+        "tipo": 1,
+        "nombre": "SEMI SUMO DEADLIFT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "58",
+        "tipo": 1,
+        "nombre": "SHOULDER PRESS",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "59",
+        "tipo": 1,
+        "nombre": "SLIGHTLY INCLINED SHOULDER PRESS (BARRA)",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "60",
+        "tipo": 1,
+        "nombre": "SLIGHTLY INCLINED SHOULDER PRESS (MANCUERNAS)",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "61",
+        "tipo": 1,
+        "nombre": "SNATCH DEADLIFT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "62",
+        "tipo": 1,
+        "nombre": "SNATCH BALANCE",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "63",
+        "tipo": 1,
+        "nombre": "SPLIT JERK",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "64",
+        "tipo": 1,
+        "nombre": "SQUAT CLEAN",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "65",
+        "tipo": 1,
+        "nombre": "SQUAT HANG CLEAN",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "66",
+        "tipo": 1,
+        "nombre": "SQUAT HANG SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "67",
+        "tipo": 1,
+        "nombre": "SQUAR SNATCH",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "68",
+        "tipo": 1,
+        "nombre": "STRAIGHT SEATED SHOULDER PRESS",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "69",
+        "tipo": 1,
+        "nombre": "STRICT PRESS",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "70",
+        "tipo": 1,
+        "nombre": "SUMO DEADLIFT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "71",
+        "tipo": 1,
+        "nombre": "SUMO DEADLIFT HIGH PULL",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "72",
+        "tipo": 1,
+        "nombre": "THRUSTER",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "73",
+        "tipo": 1,
+        "nombre": "TRAP BAR DEADLIFT",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "74",
+        "tipo": 1,
+        "nombre": "TURKISH GET-UP",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "75",
+        "tipo": 1,
+        "nombre": "WEIGHTED CHEST TO BAR",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "76",
+        "tipo": 1,
+        "nombre": "WEIGHTED PULL-UP SUPINA",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "77",
+        "tipo": 1,
+        "nombre": "WEIGHTED PULL-UP PRONA",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "78",
+        "tipo": 1,
+        "nombre": "WEIGHTED RING-DIP",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "79",
+        "tipo": 1,
+        "nombre": "YUKE CARRI (15 MIN)",
+        "descripcion": "Max 1 rep",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "80",
+        "tipo": 1,
+        "nombre": "ZERCHER SQUAT",
+        "descripcion": "Peso máximo en 15m de farmer carry",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "81",
+        "tipo": 2,
+        "nombre": "1 KM RUN",
+        "descripcion": "Run 1 kilometer for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "82",
+        "tipo": 2,
+        "nombre": "1 MILE RUN",
+        "descripcion": "Run 1 mile (1.6 km) for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "83",
+        "tipo": 2,
+        "nombre": "1/2 MARATHON ASSAULT BIKE",
+        "descripcion": "Assault Bike 21,097 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "84",
+        "tipo": 2,
+        "nombre": "1/2 MARATHON ROW",
+        "descripcion": "Row 21,097 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "85",
+        "tipo": 2,
+        "nombre": "1/2 MARATHON RUN",
+        "descripcion": "Run 21,097 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "86",
+        "tipo": 2,
+        "nombre": "1/2 MARATÓN SKIERG",
+        "descripcion": "21km skierg",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "87",
+        "tipo": 2,
+        "nombre": "10 KM RUN",
+        "descripcion": "Run 10 kilometers for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "88",
+        "tipo": 2,
+        "nombre": "100 M RUN",
+        "descripcion": "Run 100 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "89",
+        "tipo": 2,
+        "nombre": "100 M SWIM",
+        "descripcion": "Swim 100 meters for time. Any style.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "90",
+        "tipo": 2,
+        "nombre": "1000 M ASSAULT BIKE",
+        "descripcion": "Assault Bike 1000 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "91",
+        "tipo": 2,
+        "nombre": "1000 M ROW",
+        "descripcion": "Row 1000 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "92",
+        "tipo": 2,
+        "nombre": "1000 M SWIM",
+        "descripcion": "Swim 1000 meters for time. Any style.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "93",
+        "tipo": 2,
+        "nombre": "10000 M ROW",
+        "descripcion": "Row 10 kilometers for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "94",
+        "tipo": 2,
+        "nombre": "10000 M ASSAULT BIKE",
+        "descripcion": "Assault Bike 10 kilometers for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "95",
+        "tipo": 2,
+        "nombre": "1500 M SWIM",
+        "descripcion": "Swim 1500 meters for time. Any style.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "96",
+        "tipo": 2,
+        "nombre": "1500M ROW",
+        "descripcion": "For time 1500",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "97",
+        "tipo": 2,
+        "nombre": "1500M RUN",
+        "descripcion": "For Time:1500m Run",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "98",
+        "tipo": 2,
+        "nombre": "2 KM RUN",
+        "descripcion": "Run 2 kilometers for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "99",
+        "tipo": 2,
+        "nombre": "200 M RUN",
+        "descripcion": "Run 200 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "100",
+        "tipo": 2,
+        "nombre": "200 M SWIM",
+        "descripcion": "Swim 200 meters for time. Any style.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "101",
+        "tipo": 2,
+        "nombre": "2000 M ASSAULT BIKE",
+        "descripcion": "Assault Bike 2 kilometers for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "102",
+        "tipo": 2,
+        "nombre": "2000 M ROW",
+        "descripcion": "Row 2 kilometers for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "103",
+        "tipo": 2,
+        "nombre": "3 KM RUN",
+        "descripcion": "Run 3 kilometers for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "104",
+        "tipo": 2,
+        "nombre": "300 METROS RUN",
+        "descripcion": "For time: 300 metros run",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "105",
+        "tipo": 2,
+        "nombre": "3000M ROW",
+        "descripcion": "Row 3 kilometers for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "106",
+        "tipo": 2,
+        "nombre": "4 KM RUN",
+        "descripcion": "Run 4 kilometers for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "107",
+        "tipo": 2,
+        "nombre": "400 M RUN",
+        "descripcion": "Run 400 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "108",
+        "tipo": 2,
+        "nombre": "400 M SWIM",
+        "descripcion": "Swim 400 meters for time. Any style.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "109",
+        "tipo": 2,
+        "nombre": "5 KM RUN",
+        "descripcion": "Run 5 kilometers for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "110",
+        "tipo": 2,
+        "nombre": "50 M SWIM",
+        "descripcion": "Swim 50 meters for time. Any style.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "111",
+        "tipo": 2,
+        "nombre": "500 M ASSAULT BIKE",
+        "descripcion": "Assault Bike 500 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "112",
+        "tipo": 2,
+        "nombre": "500 M ROW",
+        "descripcion": "Row 500 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "113",
+        "tipo": 2,
+        "nombre": "500 M SWIM",
+        "descripcion": "Swim 500 meters for time. Any style.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "114",
+        "tipo": 2,
+        "nombre": "5000 M ASSAULT BIKE",
+        "descripcion": "Assault Bike 5000 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "115",
+        "tipo": 2,
+        "nombre": "5000 M ROW",
+        "descripcion": "Row 5000 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "116",
+        "tipo": 2,
+        "nombre": "5000M BIKEERG",
+        "descripcion": "For time: 5000 m Bikeerg",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "117",
+        "tipo": 2,
+        "nombre": "800 M RUN",
+        "descripcion": "Run 800 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "118",
+        "tipo": 2,
+        "nombre": "800 M SWIM",
+        "descripcion": "Swim 800 meters for time. Any style.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "119",
+        "tipo": 2,
+        "nombre": "8000 M ROW",
+        "descripcion": "Row 8000 meters for time.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "120",
+        "tipo": 2,
+        "nombre": "BIKEERG 10.000M",
+        "descripcion": "For Time : 10.000m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "121",
+        "tipo": 2,
+        "nombre": "BIKEERG 1000M",
+        "descripcion": "Time 1000m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "122",
+        "tipo": 2,
+        "nombre": "BIKEERG 2000M",
+        "descripcion": "Time 2000m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "123",
+        "tipo": 2,
+        "nombre": "BIKEERG 500M",
+        "descripcion": "Time 500m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "124",
+        "tipo": 2,
+        "nombre": "BIKEERG 8000M",
+        "descripcion": "Time 8000m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "125",
+        "tipo": 2,
+        "nombre": "SKIERG 10.000M",
+        "descripcion": "For Time : 10.000m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "126",
+        "tipo": 2,
+        "nombre": "SKIERG 1000M",
+        "descripcion": "For Time : 1000m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "127",
+        "tipo": 2,
+        "nombre": "SKIERG 500M",
+        "descripcion": "For Time : 500m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "128",
+        "tipo": 2,
+        "nombre": "SKIERG 8000M",
+        "descripcion": "For Time : 8000m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "129",
+        "tipo": 2,
+        "nombre": "SKIERG 2000M",
+        "descripcion": "For Time : 2000m",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "130",
+        "tipo": 3,
+        "nombre": "CURL BÍCEPS MANCUERNAS",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "131",
+        "tipo": 3,
+        "nombre": "CURL FEMORAL",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "132",
+        "tipo": 3,
+        "nombre": "DB MONSTER WALK",
+        "descripcion": "max. repeticiones",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "133",
+        "tipo": 3,
+        "nombre": "GLOBET SQUAT",
+        "descripcion": "max. repeticiones",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "134",
+        "tipo": 3,
+        "nombre": "DB THRUSTER",
+        "descripcion": "max. repeticiones",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "135",
+        "tipo": 3,
+        "nombre": "EXTENSIÓN CUÁDRICEPS",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "136",
+        "tipo": 3,
+        "nombre": "JALON EN POLEA CON AGARRE CERRADO",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "137",
+        "tipo": 3,
+        "nombre": "HACK",
+        "descripcion": "max. peso Hack",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "138",
+        "tipo": 3,
+        "nombre": "JALON EN POLEA CON AGARRE ABIERTO",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "139",
+        "tipo": 3,
+        "nombre": "LEG PRESS",
+        "descripcion": "max. peso Leg press",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "140",
+        "tipo": 3,
+        "nombre": "JALON EN POLEA CON AGARRE INVERSO",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "141",
+        "tipo": 3,
+        "nombre": "LANDMINE ROW",
+        "descripcion": "Max. Peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "142",
+        "tipo": 3,
+        "nombre": "PULL TROUGTH",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "143",
+        "tipo": 3,
+        "nombre": "PATADA DE GLÚTEO LATERAL",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "144",
+        "tipo": 3,
+        "nombre": "PATADA DE GLÚTEO",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "145",
+        "tipo": 3,
+        "nombre": "REMO CON MANCUERNA",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "146",
+        "tipo": 3,
+        "nombre": "REMO EN POLEA ALTA A UNA MANO",
+        "descripcion": "max.peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "147",
+        "tipo": 3,
+        "nombre": "PULLOVER DE PIE EN POLEA ALTA",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "148",
+        "tipo": 3,
+        "nombre": "ROMANIAN DEADLIFT DB",
+        "descripcion": "max. repeticiones",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "149",
+        "tipo": 3,
+        "nombre": "SENTADILLA CON AGARRE EN POLEA BAJA",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "150",
+        "tipo": 3,
+        "nombre": "ROMANIAN DEADLIFT EN POLEA BAJA",
+        "descripcion": "max. peso",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "151",
+        "tipo": 3,
+        "nombre": "WOMAN MAKER DB",
+        "descripcion": "max. repeticiones",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "152",
+        "tipo": 4,
+        "nombre": "100 AIR SQUAT",
+        "descripcion": "For time: 100 Air squat",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "153",
+        "tipo": 4,
+        "nombre": "100 CAL ROW",
+        "descripcion": "For time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "154",
+        "tipo": 4,
+        "nombre": "100 PULL-UPS",
+        "descripcion": "For time: 100 pull ups",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "155",
+        "tipo": 4,
+        "nombre": "100 TOES TO BAR",
+        "descripcion": "For time: 100 Toes to Bar",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "156",
+        "tipo": 4,
+        "nombre": "100 BURPEES",
+        "descripcion": "For time: 100 burpees",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "157",
+        "tipo": 4,
+        "nombre": "100 CAL ASSAULT BIKE",
+        "descripcion": "100 cal Assault Bike for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "158",
+        "tipo": 4,
+        "nombre": "100 CAL ECHO BIKE",
+        "descripcion": "For time 100 cal",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "159",
+        "tipo": 4,
+        "nombre": "100 PUSH UPS",
+        "descripcion": "For time: 100 push ups",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "160",
+        "tipo": 4,
+        "nombre": "1000 CAL ASSAULT BIKE",
+        "descripcion": "1000 cal Assault Bike for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "161",
+        "tipo": 4,
+        "nombre": "1000 CAL ECHO BIKE",
+        "descripcion": "For time: 1000 cals",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "162",
+        "tipo": 4,
+        "nombre": "1000 CAL ROW",
+        "descripcion": "1000 cal row for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "163",
+        "tipo": 4,
+        "nombre": "20 CAL ASSAULT BIKE",
+        "descripcion": "For time 20 cal.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "164",
+        "tipo": 4,
+        "nombre": "20 CAL ECHO BIKE",
+        "descripcion": "For time 20 cal.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "165",
+        "tipo": 4,
+        "nombre": "2500 M ROW",
+        "descripcion": "For Time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "166",
+        "tipo": 4,
+        "nombre": "30 CAL ASSAULT BIKE",
+        "descripcion": "For time 30 cal.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "167",
+        "tipo": 4,
+        "nombre": "30 CAL ROW",
+        "descripcion": "30 cal row for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "168",
+        "tipo": 4,
+        "nombre": "30/20 CAL SKIERG",
+        "descripcion": "For time: 30/20 Cal Skierg",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "169",
+        "tipo": 4,
+        "nombre": "30 CAL ECHO BIKE",
+        "descripcion": "For time: 30 cal.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "170",
+        "tipo": 4,
+        "nombre": "40 CAL ROW",
+        "descripcion": "40 cal row for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "171",
+        "tipo": 4,
+        "nombre": "40/30 CAL SKIERG",
+        "descripcion": "For time: 40/30 Cal Skierg",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "172",
+        "tipo": 4,
+        "nombre": "50 BOX JUMP",
+        "descripcion": "For Time: 50 Box Jump",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "173",
+        "tipo": 4,
+        "nombre": "50 CAL ASSAULT BIKE",
+        "descripcion": "For Time: 50 Cal Assault Bike",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "174",
+        "tipo": 4,
+        "nombre": "50 BURPEES",
+        "descripcion": "50 burpees for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "175",
+        "tipo": 4,
+        "nombre": "500 CAL ASSAULT BIKE",
+        "descripcion": "500 cal Assault Bike for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "176",
+        "tipo": 4,
+        "nombre": "500 CAL ROW",
+        "descripcion": "500 cal row for time",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "177",
+        "tipo": 4,
+        "nombre": "500 CAL ECHO BIKE",
+        "descripcion": "For time: 500 cal",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "178",
+        "tipo": 4,
+        "nombre": "BOX JUMP CHALLENGE",
+        "descripcion": "Max height in cm",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "179",
+        "tipo": 4,
+        "nombre": "BURPEE NAVETTE",
+        "descripcion": "Max rounds: Burpee + 10 m Shuttle Runs",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "180",
+        "tipo": 4,
+        "nombre": "CHEST TO BAR",
+        "descripcion": "Max reps",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "181",
+        "tipo": 4,
+        "nombre": "DOUBLE UNDERS",
+        "descripcion": "Max reps",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "182",
+        "tipo": 4,
+        "nombre": "MAX CAL ASSAULT BIKE IN 1 MIN",
+        "descripcion": "1 minute max calorie Assault Bike",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "183",
+        "tipo": 4,
+        "nombre": "MAX CAL ASSAULT BIKE IN 30 SECONS",
+        "descripcion": "Max cals",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "184",
+        "tipo": 4,
+        "nombre": "MAX CAL ECHO BIKE IN 1 MIN",
+        "descripcion": "1 minute max calorie Echo Bike",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "185",
+        "tipo": 4,
+        "nombre": "MAX. REPS BOX JUMP IN 1 MIN",
+        "descripcion": "In a 1 minute max reps box jump",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "186",
+        "tipo": 4,
+        "nombre": "MAX CAL ROW IN 1 MIN",
+        "descripcion": "1 minute max calorie row",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "187",
+        "tipo": 4,
+        "nombre": "MAX. REPS BURPEES IN 1 MIN",
+        "descripcion": "Max. Reps burpees",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "188",
+        "tipo": 4,
+        "nombre": "MAX. REPS PUSH UPS IN 1 MIN",
+        "descripcion": "In 1 minute max reps push ups",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "189",
+        "tipo": 4,
+        "nombre": "MAX. REPS PULL UPS IN 1 MIN",
+        "descripcion": "In a 1 minute max reps pull ups",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "190",
+        "tipo": 4,
+        "nombre": "MAX. REPS SINGLE UNDER IN 1 MIN",
+        "descripcion": "In a 1 minute max reps single under",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "191",
+        "tipo": 4,
+        "nombre": "MAX. TOES TO BAR UNBROKEN",
+        "descripcion": "Máximos Toes to Bar Unbroken",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "192",
+        "tipo": 4,
+        "nombre": "MAX. REPS DOBLE UNDER IN 1 MIN",
+        "descripcion": "In 1 minute max reps doble under",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "193",
+        "tipo": 4,
+        "nombre": "MAX. TOES TO BAR IN 1 MIN",
+        "descripcion": "Max. Toes to Bar in 1 min",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "194",
+        "tipo": 4,
+        "nombre": "PUSH-UPS",
+        "descripcion": "Max reps",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "195",
+        "tipo": 4,
+        "nombre": "PULL-UPS",
+        "descripcion": "Max reps unbroken",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "196",
+        "tipo": 4,
+        "nombre": "SQUAT JUMP",
+        "descripcion": "Maximos Squat Jump",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "197",
+        "tipo": 4,
+        "nombre": "STRICT PULL-UPS",
+        "descripcion": "Max reps",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    },
+    {
+        "id": "198",
+        "tipo": 4,
+        "nombre": "LONG JUMP CHALLENGE",
+        "descripcion": "Max distance long jump from standing position.",
+        "hecho": "N",
+        "marca": "",
+        "fecha": "",
+        "comentario": ""
+    }
+    
+]

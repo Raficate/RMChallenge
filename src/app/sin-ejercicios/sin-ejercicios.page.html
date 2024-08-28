@@ -1,0 +1,12 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>No hay ejercicios</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true" class="ion-padding">
+  <div class="content-center">
+    <p>No hay ejercicios por realizar de tipo {{tipo}}</p>
+    <ion-button color="primary" (click)="irAHome()" expand="block">Volver a Home</ion-button>
+  </div>
+</ion-content>

@@ -25,3 +25,42 @@
 #container a {
   text-decoration: none;
 }
+
+ion-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 0;
+}
+
+ion-grid {
+  width: 80%;
+}
+
+ion-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px; /* Espacio entre los botones */
+}
+
+ion-button {
+  width: 100%; /* Hace que el botón ocupe todo el ancho del ion-row */
+}
+
+/* Espacio en blanco del 10% de la pantalla antes del 5º botón */
+ion-row:nth-child(5) {
+  margin-top: 10vh; /* Espacio del 10% de la altura de la pantalla */
+}
+
+/* Línea separadora entre el 4º y el 5º botón */
+ion-row:nth-child(4)::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-color: #ccc; /* Color de la línea */
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+

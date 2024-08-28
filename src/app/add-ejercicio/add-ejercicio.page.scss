@@ -1,0 +1,14 @@
+.item-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .item-content ion-label {
+    flex: 0 0 30%;
+  }
+  .item-content ion-input,
+  .item-content ion-textarea,
+  .item-content ion-datetime-button {
+    flex: 1;
+  }
